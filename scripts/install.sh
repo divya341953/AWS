@@ -1,2 +1,2 @@
 #!/bin/bash
-echo"Deployed via CodeDeploy"> /var/www/html/info.text
+echo"Deployed via CodeDeploy"> /var/www/html/index.html
